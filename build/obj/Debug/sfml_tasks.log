@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\omarg\OneDrive\Desktop\pac-man\src\main.cpp(11,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\pac-man\src\main.cpp(19,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\omarg\OneDrive\Desktop\pac-man\src\main.cpp(30,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  sfml_tasks.vcxproj -> C:\Users\omarg\OneDrive\Desktop\pac-man\bin\Debug\sfml_tasks.exe
